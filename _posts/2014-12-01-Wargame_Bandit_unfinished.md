@@ -1,4 +1,8 @@
-#Bandit
+---
+layout: post
+title: Bandit (unfinished)
+---
+
 Just to save checkpoint...
 
 ##level 0
