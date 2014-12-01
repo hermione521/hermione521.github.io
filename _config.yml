@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               Hermione
-tagline:             'storage room'
+tagline:             "'s storage room"
 description:         'This is a storage room with all kinds of things. I hope you will like it.'
 url:                 http://hermione521.github.io/
 baseurl:             /
